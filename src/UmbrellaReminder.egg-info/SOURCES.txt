@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+src/UmbrellaReminder.py
+src/UmbrellaReminder.egg-info/PKG-INFO
+src/UmbrellaReminder.egg-info/SOURCES.txt
+src/UmbrellaReminder.egg-info/dependency_links.txt
+src/UmbrellaReminder.egg-info/requires.txt
+src/UmbrellaReminder.egg-info/top_level.txt
